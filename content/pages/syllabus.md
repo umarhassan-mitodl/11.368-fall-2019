@@ -2,6 +2,8 @@
 content_type: page
 description: This section presents basic information about 11.367 Environmental Justice
   Law and Policy, including course policies.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -179,4 +181,4 @@ No matter what department or discipline you are in, the WCC helps you think your
 Academic Integrity
 ------------------
 
-Fundamental to the academic work you do at MIT is an expectation that you will make choices that reflect integrity and responsible behavior. Honesty is the foundation of good academic work. Do trust the value of your own intellect and credit others for their work. Do not copy ideas or phrases without citing them appropriately. Do not submit projects or papers that have been written for a previous class. See {{% resource_link "067923c1-46b6-4cd0-93d7-6658a99ea0a5" "https://integrity.mit.edu/" %}}.
+Fundamental to the academic work you do at MIT is an expectation that you will make choices that reflect integrity and responsible behavior. Honesty is the foundation of good academic work. Do trust the value of your own intellect and credit others for their work. Do not copy ideas or phrases without citing them appropriately. Do not submit projects or papers that have been written for a previous class. See [https://integrity.mit.edu/](https://integrity.mit.edu/).

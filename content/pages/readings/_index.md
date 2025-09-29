@@ -2,6 +2,8 @@
 content_type: page
 description: This section lists the schedule of assigned readings for 11.368 Environmental
   Justice Law and Policy.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
