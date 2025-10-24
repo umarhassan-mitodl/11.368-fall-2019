@@ -2,8 +2,6 @@
 content_type: page
 description: This section presents basic information about 11.367 Environmental Justice
   Law and Policy, including course policies.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
